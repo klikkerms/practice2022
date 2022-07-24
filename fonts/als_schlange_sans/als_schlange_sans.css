@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('als_schlange_sans-thin.woff2') format('woff2'),
+         url('als_schlange_sans-thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('als_schlange_sans-light.woff2') format('woff2'),
+         url('als_schlange_sans-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('als_schlange_sans-regular.woff2') format('woff2'),
+         url('als_schlange_sans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('als_schlange_sans-bold.woff2') format('woff2'),
+         url('als_schlange_sans-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_sans';
+    src: url('als_schlange_sans-black.woff2') format('woff2'),
+         url('als_schlange_sans-black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}

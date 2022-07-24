@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'als_schlange_slab';
+    src: url('als_schlange_slab_thin.woff2') format('woff2'),
+         url('als_schlange_slab_thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_slab';
+    src: url('als_schlange_slab_light.woff2') format('woff2'),
+         url('als_schlange_slab_light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_slab';
+    src: url('als_schlange_slab_reg.woff2') format('woff2'),
+         url('als_schlange_slab_reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_slab';
+    src: url('als_schlange_slab_bld.woff2') format('woff2'),
+         url('als_schlange_slab_bld.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'als_schlange_slab';
+    src: url('als_schlange_slab_blk.woff2') format('woff2'),
+         url('als_schlange_slab_blk.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
